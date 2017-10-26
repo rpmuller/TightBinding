@@ -284,7 +284,7 @@ Exy = Vpp_sigma/3. - Vpp_pi/3.
 d1 = (0.25,0.25,0.25)     # The d* variables are in units of a
 d2 = (0.25,-0.25,-0.25)   
 d3 = (-0.25,0.25,-0.25)   
-d4 = (-0.25,-0.25,-0.25)  
+d4 = (-0.25,-0.25,0.25)  
 
 gfile = open('harrison.tmp','w')
 
